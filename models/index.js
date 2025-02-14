@@ -1,5 +1,5 @@
 const {sequelize}=require('../config/db');
-const User=require('./user');
+const User=require('./User');
 const Message=require('./Message');
 const FileUpload=require('./FileUpload');
 const ActivityLog=require('./ActivityLog');
